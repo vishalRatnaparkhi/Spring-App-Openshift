@@ -17,7 +17,7 @@ public class SpringAppOpenshiftApplication {
 	@GetMapping("/")
 	public String getMethod()
 	{
-		String name="Hello OpenShift";
+		String name="Hello Rucha, Congratulations!!!! \n I Love You :)";
 		return  name;
 	}
 
